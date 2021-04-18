@@ -395,4 +395,6 @@ public void ConfigureServices(IServiceCollection services)
 ```
 
 
-#### TODO: [Create an Anglar Client](https://code-maze.com/angular-oauth2-oidc-configuration-identityserver4/)
+#### TODO: 
+- [Create an Anglar Client](https://code-maze.com/angular-oauth2-oidc-configuration-identityserver4/)
+- [Angular OAuth2 OIDC Configuration with IdentityServer4](https://offering.solutions/blog/articles/2020/05/18/authentication-and-authorization-with-angular-and-asp.net-core-using-oidc-and-oauth2/)
